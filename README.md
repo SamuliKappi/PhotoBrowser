@@ -1,14 +1,7 @@
 # Photo Browser
 
-This template should help get you started developing with Vue 3 in Vite.
+This project is a typical photo browser with infinite scrolling. It uses placeholder data from https://jsonplaceholder.typicode.com/. And the single photo view uses https://picsum.photos to generate an image so that the website doesn't look too dull.
 
-## Recommended IDE Setup
-
-[VSCode](https://code.visualstudio.com/) + [Volar](https://marketplace.visualstudio.com/items?itemName=Vue.volar) (and disable Vetur).
-
-## Customize configuration
-
-See [Vite Configuration Reference](https://vite.dev/config/).
 
 ## Project Setup
 
