@@ -1,10 +1,3 @@
----
-name: Default Pull Request Template
-about: Use this template for all pull requests
-title: ''
-labels: ''
-assignees: ''
----
 ## Checklist
 Before submitting this pull request, please ensure the following:
 [ ] I have reviewed and tested my own code
